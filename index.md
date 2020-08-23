@@ -1,4 +1,8 @@
-The IEEE International Workshop on Big Data Analytics for Cyber Threat Hunting (CyberHunt 2020) is organized by the Digital Security Research Group of the University of Oslo (Norway) in conjunction with the 2020 IEEE International Conference on Big Data (IEEE BigData 2020). The workshop will be held during Dec 10-13, 2020, in Atlanta, GA, USA.
+The IEEE International Workshop on Big Data Analytics for Cyber Threat Hunting (CyberHunt 2020) is organized by the Digital Security Research Group of the University of Oslo (Norway) in conjunction with the 2020 IEEE International Conference on Big Data (IEEE BigData 2020). The workshop will be held during Dec 10-13, 2020, ~~in Atlanta, GA, USA.~~
+
+## Updates Regarding the IEEE Big Data Conference and the CyberHunt Workshop
+### 23 August 2020: The conference and the workshop will be held  *VIRTUALLY* on 10-13 December, 2020. 
+
 
 ### Important Dates
 ```markdown
@@ -9,7 +13,8 @@ Final Version Due:  November 25, 2020
 
 ### Workshop Description
 
-As cyber-crimes against critical infrastructure and large organizations increase and evolve, automated systems to supplement human analysis are required. In addition, hunting for breaches is like looking for a needle in a haystack. Such organizations are so large, with so much information and data to sort for actionable intelligence, that just knowing where to begin seems impossible. Intelligence analysis of an attack is traditionally an iterative mainly manual process going through unlimited amounts of data trying to determine sophisticated patterns and behaviors of intruders. Furthermore, most detected intrusions will provide a limited set of attributes about a single phase of an attack. Knowing all the stages of an intrusion accurately and in a timely manner would allow us to aid our cyber detective and preventive capabilities, as well as enrich our cyber threat intelligence and facilitate immediate threat information sharing, since we put several pieces together. The workshop is expected to address the aforementioned issues and will aim at presenting novel research in the area of cyber-threat hunting, cyber-threat intelligence, Security Orchestration, Automation, and Response. The research can have a special focus on AI and Big Data.
+Cyber-crimes against critical infrastructure, operational technology, IoT, and large organizations have become more sophisticated and are executed at machine speed. In response to that, cyber defenders transition from manual and reactive approaches to more automated and proactive. A key element for building a robust security posture against adversarial attacks is Cyber threat intelligence (CTI). CTI allows security teams to benefit from increased situational awareness and thus minimize their organizations attack surfaces. Based on the detection maturity of an organization, such intelligence can update cyber defense components in an automated manner based on the established trust between the entity sharing the intelligence and the entity consuming it, or in more proactive approaches such as threat hunting and risk assessment. For example, TTPs used in adversarial activities can support threat hunting efforts where the objective is to detect unidentified malicious activity that evaded existing security solutions. 
+### The CyberHunt workshop aims to present (potentially AI-focused) new research in the areas of cyber-threat hunting, cyber-threat intelligence, and security orchestration, automation, and response.
 
 ### Research Topics
 
