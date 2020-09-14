@@ -1,7 +1,8 @@
-The IEEE International Workshop on Big Data Analytics for Cyber Threat Hunting (CyberHunt 2020) is organized by the Digital Security Research Group of the University of Oslo (Norway) in conjunction with the 2020 IEEE International Conference on Big Data (IEEE BigData 2020). The workshop will be held during Dec 10-13, 2020, ~~in Atlanta, GA, USA.~~
+## Updates Regarding the CyberHunt Workshop and the IEEE Big Data Conference 
+### 23 August 2020: The conference and the workshop will be held  *VIRTUALLY* on 10-13 December, 2020.
 
-## Updates Regarding the IEEE Big Data Conference and the CyberHunt Workshop
-### 23 August 2020: The conference and the workshop will be held  *VIRTUALLY* on 10-13 December, 2020. 
+
+The IEEE International Workshop on Big Data Analytics for Cyber Threat Hunting (CyberHunt 2020) is organized by the Digital Security Research Group of the University of Oslo (Norway) in conjunction with the 2020 IEEE International Conference on Big Data (IEEE BigData 2020). The workshop will be held during Dec 10-13, 2020, ~~in Atlanta, GA, USA.~~ 
 
 
 ### Important Dates
