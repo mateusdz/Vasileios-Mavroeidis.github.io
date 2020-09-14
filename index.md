@@ -14,8 +14,7 @@ Final Version Due:  November 25, 2020
 
 ### Workshop Description
 
-Cyber-crimes against critical infrastructure, operational technology, IoT, and large organizations have become more sophisticated and are executed at machine speed. In response to that, cyber defenders transition from manual and reactive approaches to more automated and proactive. A key element for building a robust security posture against adversarial attacks is Cyber threat intelligence (CTI). CTI allows security teams to benefit from increased situational awareness and thus minimize their organizations attack surfaces. Based on the detection maturity of an organization, such intelligence can update cyber defense components in an automated manner based on the established trust between the entity sharing the intelligence and the entity consuming it, or in more proactive approaches such as threat hunting and risk assessment. For example, TTPs used in adversarial activities can support threat hunting efforts where the objective is to detect unidentified malicious activity that evaded existing security solutions. 
-### The CyberHunt workshop aims to present (potentially AI-focused) new research in the areas of cyber-threat hunting, cyber-threat intelligence, and security orchestration, automation, and response.
+Cyber-crimes against critical infrastructure, operational technology, IoT, and large organizations have become more sophisticated and are executed at machine speed. In response to that, cyber defenders transition from manual and reactive approaches to more automated and proactive. A key element for building a robust security posture against adversarial attacks is Cyber threat intelligence (CTI). CTI allows security teams to benefit from increased situational awareness and thus minimize their organizations attack surfaces. Based on the detection maturity of an organization, such intelligence can update cyber defense components in an automated manner based on the established trust between the entity sharing the intelligence and the entity consuming it, or in more proactive approaches such as threat hunting and risk assessment. For example, TTPs used in adversarial activities can support threat hunting efforts where the objective is to detect unidentified malicious activity that evaded existing security solutions. The CyberHunt workshop aims to present (potentially AI-focused) new research in the areas of cyber-threat hunting, cyber-threat intelligence, and security orchestration, automation, and response.
 
 ### Research Topics
 
@@ -56,4 +55,8 @@ All accepted papers will be included in the IEEE Big Data 2020 Conference Procee
 
 
 ### Support or Contact
-Please contact Vasileios Mavroeidis for any inquiries at vasileim[at]ifi.uio.no
+For general inquiries you can contact the workshop chair: Vasileios Mavroeidis vasileim(@)ifi.uio.no.
+
+For PC-chair inquiries you can contact: Nils Gruschka nilsgrus(@)ifi.uio.no.
+
+For technical inquiries you can contact the PC-chair assistant: Mateusz Zych mateusdz(@)ifi.uio.no.
