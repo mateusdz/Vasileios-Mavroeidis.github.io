@@ -15,5 +15,5 @@ permalink: /organization.md/
 * Publicity Chair: Tamas Bisztray - University of Oslo
 
 ## Program Committee
-
+* Vasileios Mavroeidis
 TBA.
