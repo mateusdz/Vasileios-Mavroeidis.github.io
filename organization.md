@@ -15,5 +15,16 @@ permalink: /organization.md/
 * Publicity Chair: Tamas Bisztray - University of Oslo
 
 ## Program Committee
-* Vasileios Mavroeidis
-TBA.
+
+* Andrii Shalaginov - Center for Cyber- and Information Security, Norwegian University of Science and Technology
+* Jassim Happa - Department of Computer Science, University of Oxford
+* Fatbardh Veseli - Goethe University Frankfurt / Capgemini Germany
+* Panagiotis Karampelas - Hellenic Air Force Academy
+* Sule Yildirim Yayilgan - Norwegian University of Science and Technology
+* Igor Kotsiuba - Pukhov Institute for Modelling in Energy Engineering, National Academy of Sciences of Ukraine
+* Blerim Rexha - University of Prishtina
+* Vasileios Mavroeidis - University Of Oslo
+* Nils Gruschka - University Of Oslo
+* Fabio Massimo Zannaro - University Of Oslo
+* Tamas Bisztray - University Of Oslo
+* Gahangir Hossain - West Texas A&M University
