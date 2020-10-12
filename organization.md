@@ -20,6 +20,7 @@ permalink: /organization.md/
 * Jassim Happa - Department of Computer Science, University of Oxford
 * Fatbardh Veseli - Goethe University Frankfurt / Capgemini Germany
 * Panagiotis Karampelas - Hellenic Air Force Academy
+* Siri Bromander - Mnemonic AS
 * Sule Yildirim Yayilgan - Norwegian University of Science and Technology
 * Igor Kotsiuba - Pukhov Institute for Modelling in Energy Engineering, National Academy of Sciences of Ukraine
 * Blerim Rexha - University of Prishtina
