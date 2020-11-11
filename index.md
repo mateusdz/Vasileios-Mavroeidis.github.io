@@ -9,7 +9,8 @@ The IEEE International Workshop on Big Data Analytics for Cyber Threat Hunting (
 <pre>
 Submission Deadline: <s>October 16, 2020</s>  October 30, 2020
 Notifications Due: <s>November 2, 2020</s> November 11, 2020
-Final Version Due:  November 15, 2020
+Author Registration Deadline: November 15, 2020
+Camera-ready Submission Deadline:  November 20, 2020
 </pre>
 
 ### Workshop Description
