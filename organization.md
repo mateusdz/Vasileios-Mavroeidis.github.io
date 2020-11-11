@@ -17,16 +17,14 @@ permalink: /organization.md/
 ## Program Committee
 
 * Andrii Shalaginov - Center for Cyber- and Information Security, Norwegian University of Science and Technology
-* Jassim Happa - Department of Computer Science, University of Oxford
-* Fatbardh Veseli - Goethe University Frankfurt / Capgemini Germany
-* Panagiotis Karampelas - Hellenic Air Force Academy
-* Siri Bromander - Mnemonic AS
-* Sule Yildirim Yayilgan - Norwegian University of Science and Technology
-* Igor Kotsiuba - Pukhov Institute for Modelling in Energy Engineering, National Academy of Sciences of Ukraine
+* Audun Joøsang  - University Of Oslo
 * Blerim Rexha - University of Prishtina
 * Fabio Massimo Zannaro - University Of Oslo
+* Fatbardh Veseli - Goethe University Frankfurt / Capgemini Germany
+* Jassim Happa - Department of Computer Science, University of Oxford
 * Mateusz Zych - University of Oslo
 * Nils Gruschka - University Of Oslo
+* Panagiotis Karampelas - Hellenic Air Force Academy
+* Siri Bromander - Mnemonic AS
 * Tamas Bisztray - University Of Oslo
 * Vasileios Mavroeidis - University Of Oslo
-* Gahangir Hossain - West Texas A&M University
