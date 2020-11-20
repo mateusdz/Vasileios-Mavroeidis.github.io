@@ -19,7 +19,7 @@ permalink: /organization.md/
 * Andrii Shalaginov - Center for Cyber- and Information Security, Norwegian University of Science and Technology
 * Audun Joøsang  - University Of Oslo
 * Blerim Rexha - University of Prishtina
-* Fabio Massimo Zannaro - University Of Oslo
+* Fabio Massimo Zennaro - University Of Oslo
 * Fatbardh Veseli - Goethe University Frankfurt / Capgemini Germany
 * Jassim Happa - Department of Computer Science, University of Oxford
 * Mateusz Zych - University of Oslo
