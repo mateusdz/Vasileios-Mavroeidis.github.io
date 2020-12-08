@@ -4,6 +4,26 @@
 
 The IEEE International Workshop on Big Data Analytics for Cyber Threat Hunting (CyberHunt 2020) is organized by the Digital Security Research Group of the University of Oslo (Norway) in conjunction with the 2020 IEEE International Conference on Big Data (IEEE BigData 2020). The workshop will be held during Dec 10-13, 2020, ~~in Atlanta, GA, USA.~~ 
 
+### Workshop Schedule
+**Workshop Chair:** Vasileios Mavroeidis  
+**PC Chair:** Nils Gruschka  
+**PC Chair Assistant:** Mateusz Zych  
+
+| **Time (EST)** | **Title** | **Presenter/Author** |
+| --- | --- | - |
+| 9:00-9:05 | Opening Remarks | Organizers |
+| 9:05-9:45 | Keynote Presentation: The (new) attack surfaces of data-learned models - Adversarial attacks and defenses for ML models | Fabio Zennaro |
+| 9:45-10:10 | CTI ANT: Hunting for Chinese Threat Intelligence (S01211) | Chia-En Tsai |
+| 10:10-10:35 | Towards Fighting Cybercrime: Malicious URL Attack Type Detection using Multiclass Classification (S01212) | Tariro Manyumwa |
+| 10:35-11:00 | Does Sophisticating Double Arbiter PUF Design Ensure its Security? Performance and Security Assessments on 5-1 DAPUF (S01207) | Meznah Alamro |
+| 11:00-11:25 | An Approach to Combining Medical Device Fault Analysis with Trusted Computing Forensics (S01216) | Ian Oliver |
+| **11:25-11:40** | **Coffee Break** |
+| 11:40-12:05 | The Applicability of Authorship Verification to Swedish Discussion Forums (S01209) | Lukas Lundmark |
+| 12:05-12:30 | Firearm Detection via Convolutional Neural Networks: Comparing a Semantic Segmentation Model Against End-to-End Solutions (S01218) | Alexander Egiazarov |
+| 12:30-12:55 | Assessment of Data Augmentation Techniques for Firearm Detection in Surveillance Videos (S01204) | Jacob Rose |
+| 12:55-13:20 | Cyber Threat Hunting Through Automated Hypothesis and Multi-Criteria Decision Making (S01205) | Antonio Jose Horta Neto |
+| 13:20-13:25 | Closing Remarks | Organizers |
+
 
 ### Important Dates
 <pre>
